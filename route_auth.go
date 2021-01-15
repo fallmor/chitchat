@@ -1,8 +1,9 @@
 package main
 
 import (
-	"chitchat/data"
 	"net/http"
+
+	"github.com/fallmor/cours-go/chitchat/data"
 )
 
 // GET /login
