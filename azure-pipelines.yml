@@ -1,0 +1,3 @@
+- task: Go
+  inputs:
+    command: 'build'
